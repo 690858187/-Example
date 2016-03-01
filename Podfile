@@ -1,0 +1,8 @@
+ pod 'AMapNavi', '~> 1.3.2'
+ pod 'AMapLocation', '~> 1.0.1'
+ pod 'AFNetworking'
+ pod 'AFNetworking'
+ pod 'AFNetworking'
+ pod 'MJExtension'
+ pod 'FMDB'
+ pod 'MBProgressHUD', '~> 0.9.1'
